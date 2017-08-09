@@ -12,6 +12,8 @@ public class calculator {
         int y = input.nextInt();
 
         System.out.println("The value of both Variables is : " + (x + y));
+        
+        //This is a comment
 
     }
 }
